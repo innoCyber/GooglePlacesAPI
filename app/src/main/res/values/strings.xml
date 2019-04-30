@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Google Places API</string>
+
+    <string-array name="atms">
+
+        <item>ATM</item>
+
+    </string-array>
+</resources>
